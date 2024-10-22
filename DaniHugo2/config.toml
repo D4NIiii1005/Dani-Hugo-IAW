@@ -1,0 +1,11 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "paper"
+
+
+[menu]
+  [[menu.main]]
+    name = "Mi Página"
+    url = "/paginaDani/"
+    weight = 10

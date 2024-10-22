@@ -1,9 +1,0 @@
-baseURL = 'http://localhost.com/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-coder'
-
-colorScheme = "auto"
-# Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
-
